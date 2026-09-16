@@ -1,0 +1,6 @@
+[submodule "NanoCLUST"]
+	path = NanoCLUST
+	url = git@git.embl.org:grp-zimmermann-kogadeeva/NanoCLUST.git
+[submodule "Practical7_MetabolicModelling"]
+	path = Practical7_MetabolicModelling
+	url = git@git.embl.org:grp-zimmermann-kogadeeva/Practical_Metabolic_modelling.git
