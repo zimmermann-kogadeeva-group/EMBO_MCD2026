@@ -31,6 +31,8 @@ Course modules include:
 | Submodule | Description |
 |-----------|-------------|
 | [`NanoCLUST`](NanoCLUST) | Fork of the [NanoCLUST](https://github.com/genomicsITER/NanoCLUST) pipeline for de novo clustering and consensus building of ONT 16S sequencing data |
+| [`Practical5_16S`](Practical5_16S) | Computational practical 5: 16S analysis of axenic and xenic *Chaetoceros neogracilis* cultures — running NanoCLUST on an assigned barcode, then R-based composition, Bray–Curtis and PCoA analysis of the combined profiles |
+| [`Practical6_Metabolomics`](Practical6_Metabolomics) | Computational practical 6: untargeted LC-MS metabolomics in R — quality control and feature filtering of an MS-DIAL peak-area export, followed by PCA, ANOVA, heatmap and volcano plot |
 | [`Practical7_MetabolicModelling`](Practical7_MetabolicModelling) | Computational practical 7: metabolic modelling of community interactions |
 
 ## Usage
