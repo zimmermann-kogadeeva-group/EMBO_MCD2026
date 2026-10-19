@@ -1,12 +1,12 @@
 [submodule "NanoCLUST"]
 	path = NanoCLUST
-	url = git@git.embl.org:grp-zimmermann-kogadeeva/NanoCLUST.git
+	url = git@github.com:zimmermann-kogadeeva-group/NanoCLUST.git
 [submodule "Practical7_MetabolicModelling"]
 	path = Practical7_MetabolicModelling
-	url = git@git.embl.org:grp-zimmermann-kogadeeva/Practical_Metabolic_modelling.git
+	url = git@github.com:zimmermann-kogadeeva-group/Practical_Metabolic_modelling.git
 [submodule "Practical5_16S"]
 	path = Practical5_16S
-	url = git@git.embl.org:grp-zimmermann-kogadeeva/EMBO_MCD2026_Practical5_16S.git
+	url = git@github.com:zimmermann-kogadeeva-group/EMBO_MCD2026_Practical5_16S.git
 [submodule "Practical6_Metabolomics"]
 	path = Practical6_Metabolomics
-	url = git@git.embl.org:grp-zimmermann-kogadeeva/EMBO_MCD2026_Practical6_Metabolomics.git
+	url = git@github.com:zimmermann-kogadeeva-group/EMBO_MCD2026_Practical6_Metabolomics.git
